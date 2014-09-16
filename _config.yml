@@ -2,7 +2,7 @@
 title: Department of Procurement
 email: tiffani@codeforamerica.org
 description: Our mission is to model best practices in public purchasing while promoting equity, fairness and economic inclusion.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "atlanta-procurement-www" # the subpath of your site, e.g. /blog/
 url: "http://codeforamerica.github.io/atlanta-procurement-www" # the base hostname & protocol for your site
 twitter_username: cityofatlanta
 github_username:  codeforamerica
