@@ -53,9 +53,6 @@ Derek East
 Valerie Floyd  
 [vmfloyd@atlantaga.gov](mailto:vmfloyd@atlantaga.gov "Email Valerie Floyd, Contracting officer")
 <br><br>
-Eugene Fuller, Jr.  
-[efuller@atlantaga.gov](mailto:efuller@atlantaga.gov "Email Eugene Fuller, Jr., Contracting officer")
-<br><br>
 Jaamal Jennings  
 [jmjennings@atlantaga.gov](mailto:atlantaga.gov "Email Jaamal Jennings, Contracting officer")
 <br><br>
