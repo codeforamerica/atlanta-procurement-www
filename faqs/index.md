@@ -16,7 +16,7 @@ To make getting answers to your questions about doing business with the City of 
 <br><br>
 
 ## Questions before bidding<a name="pre-bid-questions"></a>
-**What do vendors need to do to register as a vendor with the City?**
+**What do vendors need to do to register as a vendor with the City?**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at ex at odio aliquam feugiat. In hac habitasse platea dictumst. Donec lorem sapien.
 <br><br>
 
@@ -86,7 +86,7 @@ Csis elementum quam eleifend id. Sed non posuere quam. Phasellus id diam ut lect
 Morbi tincidunt ultrices ligula, vitae hendrerit mauris pretium eget. Fusce non blandit neque.
 <br><br>
 
-## Questions after being awarded a bid  
+## Questions after being awarded a bid<a name="post-award-questions"></a>
 **How are informal purchases handled?**  
 Morbi tincidunt ultrices ligula, vitae hendrerit mauris pretium eget. Fusce non blandit neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra
 <br><br>
