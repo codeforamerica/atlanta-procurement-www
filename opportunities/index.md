@@ -2,8 +2,9 @@
 layout: default
 title: Solicitations
 permalink: /opportunities/
+published: true
 ---
-## Solicitations
+# Solicitations
 We oversee commodity and service procurements for Aviation, Parks, Watershed, Public Works, and General Fund departments. Use the search tool below to view current and archived bid opportunities, download bid documents, and sign up for future updates.
 
 <script type="text/javascript">
@@ -37,9 +38,9 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
         <option value="department">Browse by department</option>
       </select><br /><br />
 
-      <label for="plan_holder_Select a bid opportunity">Select a bid opportunity</label>
-      <span style="color: #c7254e; font-weight: bold;"> *</span><br>
-      <select class="form-control input-lg" id="plan_holder_project_id" name="plan_holder[project_id]">
+      <label for="plan_holder_Select a bid opportunity" style="display:none;">Select a bid opportunity</label>
+      <span style="color: #c7254e; font-weight: bold; display: none;"> *</span><br>
+      <select class="form-control input-lg" style="display: none;" id="plan_holder_project_id" name="plan_holder[project_id]">
         <option value=""></option>
         <option value="66">00-00000 - Superbly Awesome Project</option>
         <option value="6">6856-AP - 2014 DEBRIS REMOVAL EQUIPMENT</option>

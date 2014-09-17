@@ -1,6 +1,8 @@
 ---
 layout: default
 published: true
+permalink: /rss/
+title: Department of Procurement RSS
 ---
 
 ### **What is RSS?**

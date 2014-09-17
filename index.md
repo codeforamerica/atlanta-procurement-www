@@ -1,8 +1,10 @@
 ---
 layout: default
+title: City of Atlanta Department of Procurement
+published: true
 ---
 
-## Welcome!
+# Welcome!
 The Department of Procurement is responsible for facilitating the procurement of commodities and services by all City departments, City Council, and the Mayor's Office. We work with departments to:
 
 - develop the scope of their commodity and service needs  

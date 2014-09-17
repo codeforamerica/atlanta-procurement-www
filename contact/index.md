@@ -4,6 +4,8 @@ title: Contact Us
 permalink: /contact/
 published: true
 ---
+# Contact Us
+
 ### General Contact Information
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.517848309522!2d-84.38923999999999!3d33.74728179999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5039b33ce999f%3A0x6ce88a2f4a8e54c9!2sTrinity+Avenue+Conn+SW%2C+Atlanta%2C+GA+30334!5e0!3m2!1sen!2sus!4v1410892644708" width="825" height="200" frameborder="0" style="border:1px solid #ccc;"></iframe>
