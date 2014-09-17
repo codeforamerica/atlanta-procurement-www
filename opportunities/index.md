@@ -99,7 +99,7 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
           <strong>Site visit information</strong><br />
           1:30pm EST, Thursday, September 18, 2014<br />
           55 Trinity Ave SW, Atlanta, GA 30303<br /><br />
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.4722616218355!2d-84.39067779999999!3d33.748460200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50384a1145c5f%3A0xde099682688d4474!2s55+Trinity+Ave+SW%2C+Atlanta%2C+GA+30303!5e0!3m2!1sen!2sus!4v1410964997057" width="700" height="200" frameborder="0" style="border:1px solid #ccc;"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.4722616218355!2d-84.39067779999999!3d33.748460200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50384a1145c5f%3A0xde099682688d4474!2s55+Trinity+Ave+SW%2C+Atlanta%2C+GA+30303!5e0!3m2!1sen!2sus!4v1410964997057" width="800" height="200" frameborder="0" style="border:1px solid #ccc;"></iframe>
         </p>
         <div>
           <a href="/atlanta-procurement-www/opportunities/fc-00-00000" class="btn btn-success">Get more information</a>
