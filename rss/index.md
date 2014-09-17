@@ -29,7 +29,8 @@ Select which feeds you would like to subscribe to for updates. With the Departme
 To make subscribing to feed updates extremely simple, we recommend using the free web-based RSS feed reader Bloglines. Use the instructions below to begin maintaining your updates.
 
 1. Create a Bloglines account <a href="http://www.bloglines.com" target="_blank">here</a>.
-2. Then, click any of the links below to add them to your Bloglines feed reader:  
+2. Click on the link in the confirmation email Bloglines will send to the email address you used to create your Bloglines account.
+3. Then, click any of the links below to add them to your Bloglines feed reader:  
 - [General Fund RFPs](http://www.bloglines.com/sub/http://atl-procurement-rss.herokuapp.com/bids/general-funds.xml)
 - [Department of Procurement RFPs](http://www.bloglines.com/sub/http://atl-procurement-rss.herokuapp.com/bids/procurement.xml)
 - [Aviation RFPs](http://www.bloglines.com/sub/http://atl-procurement-rss.herokuapp.com/bids/aviation.xml)
