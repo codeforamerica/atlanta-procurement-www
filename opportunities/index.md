@@ -9,7 +9,15 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
 
 <script type="text/javascript">
   $(function() {
-      console.log('dfasdaf');
+      $('#project-criteria').change(function() {
+        $('#project-departments').fadeIn();
+      });
+
+      $('#project-departments').change(function() {
+        console.log("YOOO..");
+        $('#plan_holder_project_id').fadeIn();
+      });
+
       $('#plan_holder_project_id').change(function() {
         console.log("CHANGES!");
         if($(this).val() != "") {
@@ -38,6 +46,22 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
         <option value="department">Browse by department</option>
       </select><br /><br />
 
+      <select class="form-control input-lg" id="project-departments" style="display: none;" name="plan_holder[criteria]">
+        <option value="due-date">Aviation</option>
+        <option value="department">Corrections</option>
+        <option value="department">Finance</option>
+        <option value="department">Fire</option>
+        <option value="department">Human Resources</option>
+        <option value="department">Information Technology</option>
+        <option value="department">Law</option>
+        <option value="department">Parks & Recreation</option>
+        <option value="department">Planning & Community Development</option>
+        <option value="department">Procurement</option>
+        <option value="department">Police</option>
+        <option value="department">Public Works</option>
+        <option value="department">Watershed Management</option>
+      </select><br /><br />
+
       <label for="plan_holder_Select a bid opportunity" style="display:none;">Select a bid opportunity</label>
       <span style="color: #c7254e; font-weight: bold; display: none;"> *</span><br>
       <select class="form-control input-lg" style="display: none;" id="plan_holder_project_id" name="plan_holder[project_id]">
@@ -52,7 +76,6 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
         <option value="9">7240-AP - VARIOUS DIESEL REFUSE TRUCKS</option>
         <option value="10">7243-PD - AIR EMISSION SOURCE/UINIT T...</option>
         <option value="11">7245-AP - REPAIR PARTS &amp;amp; SERVICE FOR ...</option>
-        <option value="14">7262-AP - LICENSE PLATE READER </option>
         <option value="20">7266-PL - THE RENTAL OF UNIFORMS FOR ...</option>
         <option value="12">7268-PL - GAS MONITORS, SENSORS, SUPP...</option>
         <option value="22">7274-PL - MSA 5200 EVOLUTION THERMAL ...</option>
@@ -65,12 +88,6 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
         <option value="16">7306-AP - CONSTRUCTION EQUIPMENT</option>
         <option value="18">7312-MT - COLD MIX ASPHALTIC CONCRETE </option>
         <option value="19">7346-AP - ASPHALT REPAIR EQUIPMENT</option>
-        <option value="75">DMO-78888 - Awesome demo opportunity</option>
-        <option value="76">DMO-990000 - Awesome demo opportunity</option>
-        <option value="77">DMO-990000 - Awesome demo opportunity</option>
-        <option value="71">FC-00001 - Blah blah blah</option>
-        <option value="59">FC-00009 - Awesomeness</option>
-        <option value="68">FC-000099 - Blah</option>
         <option value="49">FC-6770 - Zoning Ordinance Rewrite As...</option>
         <option value="37">FC-6784 - Urban Forestry </option>
         <option value="27">FC-6831 - East Atlanta Water Main Rep...</option>
@@ -100,7 +117,7 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
           <strong>Site visit information</strong><br />
           1:30pm EST, Thursday, September 18, 2014<br />
           55 Trinity Ave SW, Atlanta, GA 30303<br /><br />
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.4722616218355!2d-84.39067779999999!3d33.748460200000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50384a1145c5f%3A0xde099682688d4474!2s55+Trinity+Ave+SW%2C+Atlanta%2C+GA+30303!5e0!3m2!1sen!2sus!4v1410964997057" width="800" height="200" frameborder="0" style="border:1px solid #ccc;"></iframe>
+          <img src="http://maps.googleapis.com/maps/api/staticmap?center=55+Trinity+Ave+SW,Atlanta,GA&zoom=15&size=900x200&markers=color:red%7C33.748460200000004,-84.39067779999999" style="border: 1px solid #ccc;"/>
         </p>
         <div>
           <a href="/atlanta-procurement-www/opportunities/fc-00-00000" class="btn btn-success">Get more information</a>
