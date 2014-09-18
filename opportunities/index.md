@@ -66,7 +66,7 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
       <span style="color: #c7254e; font-weight: bold; display: none;"> *</span><br>
       <select class="form-control input-lg" style="display: none;" id="plan_holder_project_id" name="plan_holder[project_id]">
         <option value=""></option>
-        <option value="66">00-00000 - Superbly Awesome Project</option>
+        <option value="66">FC-7252 - Construction of Sidewalks, Driveways, Curbs, and Gutters</option>
         <option value="6">6856-AP - 2014 DEBRIS REMOVAL EQUIPMENT</option>
         <option value="1">7108-AP - OIL, GREASE, AND TRANSMISSI...</option>
         <option value="5">7174-MT - CRUSHED STONE RIP-RAP</option>
@@ -103,11 +103,11 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
   <div class="row" id="project-info-well" style="display: none;">
     <div class="col-md-8">
       <div class="well" id="project-info-well-content">
-        <strong style="font-size: 12pt;">Superbly Awesome Project (FC-00-00000)</strong>
+        <strong style="font-size: 12pt;">Construction of Sidewalks, Driveways, Curbs, and Gutters (FC-7252)</strong>
         <hr style="border-color: #ccc;" />
         <p>
           <strong>Project summary</strong><br />
-          ro eget nunc posuere blandit eu sit amet erat. Proin facilisis pellentesque pretium. Sed convallis rutrum turpis vel blandit. Donec id rhoncus diam. Duis ac bibendum est, in fringilla erat. Aliquam congue, risus in accumsan pulvinar, sapien nisi posuere velit, a pharetra lectus tellus egestas sapie
+          The City of Atlanta (the “City”) is soliciting proposals from qualified Proponents to construct Sidewalks, Driveways, Curbs and Gutters and other miscellaneous construction work related to sidewalk capital projects.  
         </p>
         <p>
           <strong>Bids due</strong><br />
