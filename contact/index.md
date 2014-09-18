@@ -4,6 +4,7 @@ title: Contact Us
 permalink: /contact/
 published: true
 ---
+
 # Contact Us
 
 ### General Contact Information
@@ -53,7 +54,8 @@ Derek East
 [deast@atlantaga.gov](mailto:deast@atlantaga.gov "Email Derek East, Contracting officer")
 <br><br>
 Valerie Floyd  
-[vmfloyd@atlantaga.gov](mailto:vmfloyd@atlantaga.gov "Email Valerie Floyd, Contracting officer")
+[vmfloyd@atlantaga.gov](mailto:vmfloyd@atlantaga.gov "Email Valerie Floyd, Contracting officer")  
+404.330.6517
 <br><br>
 Jaamal Jennings  
 [jmjennings@atlantaga.gov](mailto:atlantaga.gov "Email Jaamal Jennings, Contracting officer")
