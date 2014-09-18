@@ -120,7 +120,7 @@ We oversee commodity and service procurements for Aviation, Parks, Watershed, Pu
           <img src="http://maps.googleapis.com/maps/api/staticmap?center=55+Trinity+Ave+SW,Atlanta,GA&zoom=15&size=900x200&markers=color:red%7C33.748460200000004,-84.39067779999999" style="border: 1px solid #ccc;"/>
         </p>
         <div>
-          <a href="/atlanta-procurement-www/opportunities/fc-00-00000" class="btn btn-success">Get more information</a>
+          <a href="/atlanta-procurement-www/opportunities/fc-7252" class="btn btn-success">Get more information</a>
         </div>
       </div>
     </div>
