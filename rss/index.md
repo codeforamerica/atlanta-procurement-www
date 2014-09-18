@@ -40,6 +40,16 @@ To make subscribing to feed updates extremely simple, we recommend using the fre
 - [Department of Watershed RFPs](http://www.bloglines.com/sub/http://atl-procurement-rss.herokuapp.com/bids/watershed.xml)
 <br><br>
 
+If you are using your own RSS feed reader already, use the following direct links to add the updates to your reader:
+
+- [General Fund RFPs](http://atl-procurement-rss.herokuapp.com/bids/general-funds.xml)
+- [Department of Procurement RFPs](http://atl-procurement-rss.herokuapp.com/bids/procurement.xml)
+- [Aviation RFPs](http://atl-procurement-rss.herokuapp.com/bids/aviation.xml)
+- [Department of Public Works RFPs](http://atl-procurement-rss.herokuapp.com/bids/public-works.xml)
+- [Department of Watershed RFPs](http://atl-procurement-rss.herokuapp.com/bids/watershed.xml)
+<br><br>
+
+
 ### **Disclaimer**
 The City of Atlanta (the “City”) does not warrant, represent or guarantee the accuracy or completeness of information provided in this RSS feed. The City does not warrant that the information provided herein is accurate, complete, reliable, current, or error-free, and is not responsible for any errors or technical failures. Information provided here is simply for your convenience.
 
