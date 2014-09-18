@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div style="float: left; width: 200px;">
+          <strong>Welcome</strong><br />
+          <a href="/atlanta-procurement-www/">Introduction</a><br />
+          <a href="/atlanta-procurement-www/#mission">Mission</a><br />
+          <a href="/atlanta-procurement-www/#vision">Vision</a><br /><br />
+
+          <strong>What we do</strong><br />
+          <a href="/atlanta-procurement-www/opportunities/">Commodity &amp; service solicitations</a><br />
+          <a href="/atlanta-procurement-www/surplus-auctions/">Surplus auctions</a><br />
+          <a href="#">Vendor registration</a><br /><br />
+
+          <strong>Information &amp; services</strong><br />
+
+          <a href="#">Calendar</a><br />
+          <a href="#">Compliance</a><br />
+          <a href="#">Open record requests</a><br />
+          <a href="#">Local bidder information</a><br />
+          <a href="/atlanta-procurement-www/code/">Procurement code</a><br />
+          <a href="#">User forms</a><br />
+          <a href="#">User survey</a><br />
+        </div>
+        <div style="float: right; width: 600px; text-align: left;">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    <script type="text/javascript">
+      $.backstretch("http://codeforamerica.github.io/atlanta-procurement-www/images/resurgens-opaque.png");
+    </script>
+  </body>
+
+</html>

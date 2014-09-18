@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-sidenav
 title: FAQs
 permalink: /faqs/
 published: true

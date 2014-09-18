@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-sidenav
 published: true
 permalink: /rss/
 title: Department of Procurement RSS

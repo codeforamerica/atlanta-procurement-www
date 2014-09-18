@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-sidenav
 title: Solicitations
 permalink: /opportunities/
 published: true
