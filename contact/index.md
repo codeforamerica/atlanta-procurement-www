@@ -1,5 +1,5 @@
 ---
-layout: default-with-sidenav
+layout: "default-with-sidenav"
 title: Contact Us
 permalink: /contact/
 published: true
