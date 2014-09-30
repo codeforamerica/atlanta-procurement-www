@@ -7,7 +7,7 @@ published: true
 
 # Contact Us
 
-### General Contact Information
+### **General Contact Information**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.517848309522!2d-84.38923999999999!3d33.74728179999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5039b33ce999f%3A0x6ce88a2f4a8e54c9!2sTrinity+Avenue+Conn+SW%2C+Atlanta%2C+GA+30334!5e0!3m2!1sen!2sus!4v1410892644708" width="575" height="200" frameborder="0" style="border:1px solid #ccc;"></iframe>
 **Visit us at** 55 Trinity Ave SW - Suite 1900, Atlanta, GA 30303.  
@@ -15,13 +15,13 @@ published: true
 Monday thru Friday, 9am - 5pm EST
 <br><br>
 
-### Chief Procurement Officer
+### **Chief Procurement Officer**
 [Adam L. Smith](http://www.atlantaga.gov/index.aspx?page=488), Esq., CPPO, CPPB, CPPM, CPP  
 [asmith@atlantaga.gov](mailto:asmith@atlantaga.gov "Email Adam Smith, Chief Procurement Officer")  
 The Office of the Chief Procurement Officer provides leadership, administrative oversight and management to the operations of the divisions that comprise the Department of Procurement.
 <br><br>
 
-### Deputy Chief Procurement Officers
+### **Deputy Chief Procurement Officers**
 David A. Chapman, Esq.  
 404.330.6204  
 [dchapman@atlantaga.gov](mailto:dchapman@atlantaga.gov "Email David A. Chapman, Deputy Chief Procurement Officer")  
@@ -37,13 +37,13 @@ A. Girard Geeter
 Oversees the process of soliciting and issuing of contracts in support of Hartsfield-Jackson International Airport, Watershed, Public Work, and Quality of Life Fund.
 <br><br>
 
-### Public Information Officer
+### **Public Information Officer**
 Keith O. Brooks, CPPO  
 404.865.8650  
 [kbrooks@atlantaga.gov](mailto:kbrooks@atlantaga.gov "Email Keith Brooks, Deputy Chief Procurement Officer")
 <br><br>
 
-### Contracting Officers
+### **Contracting Officers**
 Wendell Bryant  
 [wambryant@atlantaga.gov](mailto:wambryant@atlantaga.gov "Email Wendell Bryant, Contracting officer")  
 404.330.6127
