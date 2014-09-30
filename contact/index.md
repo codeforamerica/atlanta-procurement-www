@@ -16,7 +16,7 @@ Monday thru Friday, 9am - 5pm EST
 <br><br>
 
 ### Chief Procurement Officer
-Adam L. Smith, Esq., CPPO, CPPB, CPPM, CPP  
+[Adam L. Smith](http://www.atlantaga.gov/index.aspx?page=488), Esq., CPPO, CPPB, CPPM, CPP  
 [asmith@atlantaga.gov](mailto:asmith@atlantaga.gov "Email Adam Smith, Chief Procurement Officer")  
 The Office of the Chief Procurement Officer provides leadership, administrative oversight and management to the operations of the divisions that comprise the Department of Procurement.
 <br><br>
