@@ -1,0 +1,7 @@
+
+<div class="alert alert-info">
+  <h3>Latest opportunities</h3>
+  {% for post in site.tags.solicitations limit:1 %}
+    <a href="{{ post.permalink }}">{{ post.title }}</a>
+  {% endfor %}
+</div>
