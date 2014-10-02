@@ -1,5 +1,4 @@
 ---
-layout: default-with-sidenav
 title: Local bidder preference program
 permalink: /local-bidder-pref/
 published: true

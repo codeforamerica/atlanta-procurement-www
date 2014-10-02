@@ -1,5 +1,4 @@
 ---
-layout: "default-with-sidenav"
 title: Supplier registration
 permalink: /supplier-registration/
 published: true

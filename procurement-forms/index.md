@@ -1,5 +1,4 @@
 ---
-layout: default-with-sidenav
 title: Procurement forms
 permalink: /forms/
 published: true
