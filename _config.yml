@@ -16,3 +16,9 @@ defaults:
       path: ""
     values:
       layout: "default-with-sidenav"
+  -
+    scope:
+      path: "opportunities"
+    values:
+      layout: "default-with-sidenav-shares"
+      category: "solicitations"
